@@ -2,10 +2,6 @@
 
 A Streamlit-based interactive dashboard to monitor, analyze, and optimize solar IoT energy data. Powered with smart anomaly detection and AI-generated efficiency tips.
 
-![Dashboard Screenshot](assets/screenshot.png)
-
----
-
 ## 🚀 Features
 
 - 📤 Upload your own solar IoT dataset (CSV format)
